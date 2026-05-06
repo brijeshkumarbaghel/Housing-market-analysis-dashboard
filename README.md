@@ -140,15 +140,13 @@ Key Measures:
 ## Dashboard Screenshots
 
 ### House Market Overview
-<img width="800" alt="House Market Overview" src="ADD_IMAGE_LINK_HERE">
+<img width="800" alt="House Market Overview" src="images/overview.png">
 
 ### Sales Performance
-<img width="800" alt="Sales Performance" src="ADD_IMAGE_LINK_HERE">
+<img width="800" alt="Sales Performance" src="images/sales_performance.png">
 
 ### House Type Analysis
-<img width="800" alt="House Type Analysis" src="ADD_IMAGE_LINK_HERE">
-
----
+<img width="800" alt="House Type Analysis" src="images/house_type_analysis.png">
 
 
 
